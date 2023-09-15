@@ -1,0 +1,12 @@
+C:\dev\Balta\Store\Store.Domain\bin\Debug\net7.0\Store.Domain.deps.json
+C:\dev\Balta\Store\Store.Domain\bin\Debug\net7.0\Store.Domain.dll
+C:\dev\Balta\Store\Store.Domain\bin\Debug\net7.0\Store.Domain.pdb
+C:\dev\Balta\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.csproj.AssemblyReference.cache
+C:\dev\Balta\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Balta\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.AssemblyInfoInputs.cache
+C:\dev\Balta\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.AssemblyInfo.cs
+C:\dev\Balta\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.csproj.CoreCompileInputs.cache
+C:\dev\Balta\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.dll
+C:\dev\Balta\Store\Store.Domain\obj\Debug\net7.0\refint\Store.Domain.dll
+C:\dev\Balta\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.pdb
+C:\dev\Balta\Store\Store.Domain\obj\Debug\net7.0\ref\Store.Domain.dll
