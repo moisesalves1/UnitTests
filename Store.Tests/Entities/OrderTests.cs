@@ -23,7 +23,8 @@ namespace Store.Tests.Domain
         [TestCategory("Domain")]
         public void Dado_um_novo_pedido_seu_status_deve_ser_aguardando_pagamento()
         {
-            Assert.Fail();
+            var order = new Order(_customer, 0, null);
+            Assert.AreEqual(EOrderStatus.WaitingPayment, order.Status);
         }
     }
 }
