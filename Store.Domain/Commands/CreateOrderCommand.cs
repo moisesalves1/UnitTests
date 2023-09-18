@@ -30,6 +30,7 @@ public class CreateOrderCommand : Notifiable, ICommand
             .Requires()
             .HasLen(Customer, 11, "Customer", "Cliente inválido")
             .HasLen(ZipCode, 8, "ZipCode", "CEP Inválido")
+            .IsGreaterThan(Items.Count, 0, "Items", "Quantidade de items deve ser maior que zero")
         );
     }
 }

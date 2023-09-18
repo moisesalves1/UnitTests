@@ -29,11 +29,15 @@ public class OrderHandler : Notifiable, IHandler<CreateOrderCommand>
     {
         // Fail Fast Validation
         command.Validate();
-        if(command.Invalid)
+        if(command.Invalid){
+            AddNotifications(command.Notifications);
             return new GenericCommandResult(false, "Pedido Inválido", command.Notifications);
+        }
+            
 
         // 1. Recupera o cliente
         var customer = _customerRepository.Get(command.Customer);
+
 
         // 2. Calcula a taxa de entrega
         var deliveryFee = _deliveryRepository.Get(command.ZipCode);
