@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nY1FG7jRXYYX9Obtf4iRnUcN0+/0Aui/4/TmippkVRGn8XhDAw9u3WXRKkzyR1+hfuP2kvFX6DdhmaRhlTJbaw==",
+  "dgSpecHash": "+AeJWIGV9nRYG7qmMfMvR1nqNrImfUkdmok5mJ1RRlH+5CbUEZmVubBHeMt2Mska4StIa81tCiMpuHeki5dzjQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Balta\\Store\\Store.Domain\\Store.Domain.csproj",
+  "projectFilePath": "D:\\Dev\\dotnet\\UnitTests\\Store.Domain\\Store.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\moises.alves\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+    "C:\\Users\\moise\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
   ],
   "logs": []
 }

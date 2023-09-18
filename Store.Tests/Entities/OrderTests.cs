@@ -26,5 +26,15 @@ namespace Store.Tests.Domain
             var order = new Order(_customer, 0, null);
             Assert.AreEqual(EOrderStatus.WaitingPayment, order.Status);
         }
+
+        [TestMethod]
+        [TestCategory("Domain")]
+        public void Dado_um_pagamento_do_pedido_seu_status_deve_ser_aguardando_entrega()
+        {
+            var order = new Order(_customer, 0, null);
+            order.AddItem(_product, 1);
+            order.Pay(10);
+            Assert.AreEqual(EOrderStatus.WaitingDelivery, order.Status);
+        }
     }
 }

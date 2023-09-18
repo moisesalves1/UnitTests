@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Balta\\Store\\Store.Domain\\Store.Domain.csproj": {}
+    "D:\\Dev\\dotnet\\UnitTests\\Store.Domain\\Store.Domain.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Balta\\Store\\Store.Domain\\Store.Domain.csproj": {
+    "D:\\Dev\\dotnet\\UnitTests\\Store.Domain\\Store.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Balta\\Store\\Store.Domain\\Store.Domain.csproj",
+        "projectUniqueName": "D:\\Dev\\dotnet\\UnitTests\\Store.Domain\\Store.Domain.csproj",
         "projectName": "Store.Domain",
-        "projectPath": "C:\\dev\\Balta\\Store\\Store.Domain\\Store.Domain.csproj",
-        "packagesPath": "C:\\Users\\moises.alves\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Balta\\Store\\Store.Domain\\obj\\",
+        "projectPath": "D:\\Dev\\dotnet\\UnitTests\\Store.Domain\\Store.Domain.csproj",
+        "packagesPath": "C:\\Users\\moise\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\dotnet\\UnitTests\\Store.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\moises.alves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\moise\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -28,7 +27,8 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/moisesalves1/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -10,3 +10,15 @@ C:\dev\Balta\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.dll
 C:\dev\Balta\Store\Store.Domain\obj\Debug\net7.0\refint\Store.Domain.dll
 C:\dev\Balta\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.pdb
 C:\dev\Balta\Store\Store.Domain\obj\Debug\net7.0\ref\Store.Domain.dll
+D:\Dev\dotnet\UnitTests\Store.Domain\bin\Debug\net7.0\Store.Domain.deps.json
+D:\Dev\dotnet\UnitTests\Store.Domain\bin\Debug\net7.0\Store.Domain.dll
+D:\Dev\dotnet\UnitTests\Store.Domain\bin\Debug\net7.0\Store.Domain.pdb
+D:\Dev\dotnet\UnitTests\Store.Domain\obj\Debug\net7.0\Store.Domain.csproj.AssemblyReference.cache
+D:\Dev\dotnet\UnitTests\Store.Domain\obj\Debug\net7.0\Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\dotnet\UnitTests\Store.Domain\obj\Debug\net7.0\Store.Domain.AssemblyInfoInputs.cache
+D:\Dev\dotnet\UnitTests\Store.Domain\obj\Debug\net7.0\Store.Domain.AssemblyInfo.cs
+D:\Dev\dotnet\UnitTests\Store.Domain\obj\Debug\net7.0\Store.Domain.csproj.CoreCompileInputs.cache
+D:\Dev\dotnet\UnitTests\Store.Domain\obj\Debug\net7.0\Store.Domain.dll
+D:\Dev\dotnet\UnitTests\Store.Domain\obj\Debug\net7.0\refint\Store.Domain.dll
+D:\Dev\dotnet\UnitTests\Store.Domain\obj\Debug\net7.0\Store.Domain.pdb
+D:\Dev\dotnet\UnitTests\Store.Domain\obj\Debug\net7.0\ref\Store.Domain.dll
