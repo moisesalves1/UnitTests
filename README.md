@@ -1,6 +1,6 @@
 # Curso 7182 do Balta.io - Refatorando para testes de unidade
 
-## Conceitos utilizados no curso...
+## Nesse curso eu pude...
 
 *   Aprender sobre testes de unidade
 *   Aprender CQRS
@@ -15,3 +15,9 @@
 *   Criar utilitários para seu projeto
 *   Implementar o Repository Pattern
 *   Criar/mockar repositórios de testes
+
+## Tecnologias e versões utilizadas
+*   C#
+
+## Projetos do curso
+*   O contexto do projeto é um sistema de pedidos com cliente, produto, ordem de compra e descontos.
