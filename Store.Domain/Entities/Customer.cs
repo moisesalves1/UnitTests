@@ -1,4 +1,5 @@
 using Flunt.Validations;
+using Store.Domain.Repositories.Interfaces;
 
 namespace Store.Domain.Entities;
 
